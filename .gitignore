@@ -1,0 +1,5 @@
+# Ignore Python bytecode files in backend
+/backend/__pycache__/ 
+
+# Ignore backend cookie.json
+/backend/cookie.json
